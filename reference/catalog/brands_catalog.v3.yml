@@ -1591,7 +1591,7 @@ paths:
       - $ref: '#/components/parameters/BrandIdParam'
   '/catalog/brands/metafields':
     get:
-      summary: Get All Metafields
+      summary: Get All Metafields of Brands
       tags:
         - Batch metafields
       description: Get all brand metafields.
